@@ -1,10 +1,11 @@
 # The VBA of Wall Street
 
-## Background
+
  In this project, I used VBA scripting to analyze generated stock market data.
 
 
-Instructions
+## Analysis
+
 I created a script that loops through all the stocks for one year and outputs the following information:
 
 
