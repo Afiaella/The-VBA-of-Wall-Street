@@ -22,7 +22,7 @@ I created a script that loops through all the stocks for one year and outputs th
 
 This is a comparison between the initial dataset and the final dataset:
 
-Additionally I used conditional formatting that will highlight positive change in green and negative change in red.
+Additionally I used conditional formatting to highlight positive change in green and negative change in red.
 
 This is what the data looked like by the end of the analysis:
 
