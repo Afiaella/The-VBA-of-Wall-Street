@@ -12,7 +12,8 @@ I created a script that loops through all the stocks for one year and outputs th
 1. The ticker symbol.
 
 
-2. Yearly change from opening price at the beginning of a given year to the closing price at the end of that year.
+2. Yearly change from opening price at the beginning of a given year to the closing price at the end of that year, 
+conditional formatting was used to highlight positive change in green and negative change in red.
 
 
 3. The percent change from opening price at the beginning of a given year to the closing price at the end of that year.
@@ -20,9 +21,9 @@ I created a script that loops through all the stocks for one year and outputs th
 
 4. The total stock volume of the stock.
 
-This is a comparison between the initial dataset and the final dataset:
+This is what the initial dataset looked like:
+<img width="930" alt="image" src="https://user-images.githubusercontent.com/85926823/219603280-213c16ad-7501-4dd0-9a9b-969bead0b368.png">
 
-Additionally I used conditional formatting to highlight positive change in green and negative change in red.
 
 This is what the data looked like by the end of the analysis:
 
