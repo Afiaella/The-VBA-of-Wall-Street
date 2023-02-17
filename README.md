@@ -22,7 +22,8 @@ conditional formatting was used to highlight positive change in green and negati
 4. The total stock volume of the stock.
 
 This is what the initial dataset looked like:
-<img width="930" alt="image" src="https://user-images.githubusercontent.com/85926823/219603280-213c16ad-7501-4dd0-9a9b-969bead0b368.png">
+<img width="943" alt="image" src="https://user-images.githubusercontent.com/85926823/219603693-5d428d44-a6e8-4e44-96ec-69d226230c91.png">
+
 
 
 This is what the data looked like by the end of the analysis:
